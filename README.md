@@ -26,8 +26,6 @@ I am currently working on my Foundation Building, backend development, APIs, and
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&redirect=true)
-
 <br><br>
 
 <p align="center">
