@@ -30,6 +30,6 @@ I am currently working on my Foundation Building, backend development, APIs, and
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
   </a>
 </p>
