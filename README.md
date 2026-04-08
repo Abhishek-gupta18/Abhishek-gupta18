@@ -22,6 +22,8 @@ I am currently working on my Foundation Building, backend development, APIs, and
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-gupta18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek-gupta18&show_icons=true&locale=en" alt="Abhishek-gupta18" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-gupta18&" alt="Abhishek-gupta18" /></p>
 
 ---
