@@ -1,28 +1,13 @@
 # 💫 About Me:
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://rishavchanda.io)
-# 💫 About Me
 
-<p align="center">
-  <img alt="Header image" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f633633336332306564653832663065306365643" />
-</p>
-
-I am currently working on my foundation building: backend development, APIs, and cybersecurity-focused projects, along with improving problem-solving skills through coding practice.
-
-## 🌐 Socials
 
 I am currently working on my Foundation Building, backend development, APIs, and cybersecurity-focused projects along with improving problem solving skillsthrough coding practice.<br><br> I'm looking to Collaboarte on  Beginner to intermediate level projects related to web development, backend system, cybersecrity tools and hackathon ideas<br><br> I'm looking for help with writing backend logic, understanding real world APIs security and improving project arcitecture.<br><br>I'm currently learning Python, JAVA, C++, C, Scripting Language and core concept of cybersecurity<br><br>Ask me about Java basics, python, backend fundamental, Hackathon and getting started in cybersecurity as a student<br><br>I learn best by building projects and help other in their doubt clarification<br><br>Always ready to take up challenges and learn new tech😎
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abgupta6176/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-## 💻 Tech Stack
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abgupta6176/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gupta-a01394341/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://in.pinterest.com/himanshination/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Abhishek-Gupta-10053) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31493261/abhishek-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Pixel_Nomad018) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Abhishekgupta.18052006@gmail.com) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
