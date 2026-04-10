@@ -42,12 +42,10 @@ I am currently working on my Foundation Building, backend development, APIs, and
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-gupta18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-gupta18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -63,7 +61,7 @@ I am currently working on my Foundation Building, backend development, APIs, and
 <p align="center">
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false">
-    <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w3lke6iqw4igjziyvtjmg5s47a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+   
 </a>
 </p>
 
