@@ -15,7 +15,6 @@ I am currently working on my Foundation Building, backend development, APIs, and
 # 📊 GitHub Stats:
 
 [![GitHub Stats](https://contribution-tracker--abhishekgupt157.replit.app/api/github/card?user=Abhishek-gupta18)](https://github.com/Abhishek-gupta18)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-gupta18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
