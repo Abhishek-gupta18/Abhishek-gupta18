@@ -2,7 +2,38 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://rishavchanda.io)
 
 
-I am currently working on my Foundation Building, backend development, APIs, and cybersecurity-focused projects along with improving problem solving skillsthrough coding practice.<br><br> I'm looking to Collaboarte on  Beginner to intermediate level projects related to web development, backend system, cybersecrity tools and hackathon ideas<br><br> I'm looking for help with writing backend logic, understanding real world APIs security and improving project arcitecture.<br><br>I'm currently learning Python, JAVA, C++, C, Scripting Language and core concept of cybersecurity<br><br>Ask me about Java basics, python, backend fundamental, Hackathon and getting started in cybersecurity as a student<br><br>I learn best by building projects and help other in their doubt clarification<br><br>Always ready to take up challenges and learn new tech😎
+🚀 Building systems, not just projects.
+
+I’m currently focused on backend engineering, APIs, cybersecurity, and scalable project architecture while strengthening my problem-solving skills through consistent development and coding practice.
+
+💡 What I enjoy working on:
+- Backend systems & REST APIs
+- Cybersecurity-focused tools and automation
+- Real-world hackathon projects
+- Open-source collaboration
+- Performance optimization & clean architecture
+
+🛠 Tech Stack & Learning Journey:
+Python • Java • C++ • C • SQL • Git/GitHub • Linux • Scripting • Web Technologies
+
+📚 Currently exploring:
+- API security & authentication
+- System design fundamentals
+- Secure backend development
+- DevOps & deployment workflows
+- Real-world cybersecurity concepts
+
+🤝 Open to collaborating on:
+- Beginner to intermediate open-source projects
+- Backend-heavy hackathon ideas
+- Security tools & developer utilities
+- Innovative student projects
+
+🎯 Goal:
+To become a developer who can build secure, scalable, and impactful products while continuously learning from real-world development experiences.
+
+⚡ I believe the best way to learn is by building, breaking, fixing, and sharing knowledge with others.
+
 
 
 ## 🌐 Socials:
