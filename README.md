@@ -34,6 +34,8 @@ To become a developer who can build secure, scalable, and impactful products whi
 
 ⚡ I believe the best way to learn is by building, breaking, fixing, and sharing knowledge with others.
 
+I'm open to Internship Opportunities and work Experience.
+
 
 
 ## 🌐 Socials:
