@@ -50,8 +50,7 @@ I'm open to Internship Opportunities and work Experience.
 [![GitHub Stats](https://contribution-tracker--abhishekgupt157.replit.app/api/github/card?user=Abhishek-gupta18)](https://github.com/Abhishek-gupta18)
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Abhishek-gupta18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+[![GitHub Trophies](https://profile-decorator--prabalbeas2.replit.app/api/trophies/Abhishek-gupta18/image)](https://profile-decorator--prabalbeas2.replit.app/?username=Abhishek-gupta18)
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
